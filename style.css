@@ -13,7 +13,8 @@ body{
      margin: auto;
      border-radius: 18px;
      margin-top: 164px;
-     box-shadow: 0px 30px 100px 0px rgba(17, 23, 41, 0.05);
+     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+     
      
 }
 .image-box-container hr {
